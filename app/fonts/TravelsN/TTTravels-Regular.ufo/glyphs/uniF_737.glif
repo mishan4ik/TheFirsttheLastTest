@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF737" format="2">
+  <advance width="950"/>
+  <unicode hex="F737"/>
+  <outline>
+    <contour>
+      <point x="326" y="-410" type="line"/>
+      <point x="190" y="-410" type="line"/>
+      <point x="778" y="885" type="line"/>
+      <point x="31" y="885" type="line"/>
+      <point x="31" y="1004" type="line"/>
+      <point x="909" y="1004" type="line"/>
+      <point x="909" y="864" type="line"/>
+    </contour>
+  </outline>
+</glyph>

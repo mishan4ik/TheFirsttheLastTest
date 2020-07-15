@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_k.liga" format="2">
+  <advance width="1755"/>
+  <outline>
+    <contour>
+      <point x="963" y="1065" type="qcurve" smooth="yes"/>
+      <point x="963" y="520" type="line"/>
+      <point x="1544" y="1004" type="line"/>
+      <point x="1714" y="1004" type="line"/>
+      <point x="1133" y="516" type="line"/>
+      <point x="1755" y="0" type="line"/>
+      <point x="1585" y="0" type="line"/>
+      <point x="963" y="512" type="line"/>
+      <point x="963" y="0" type="line"/>
+      <point x="836" y="0" type="line"/>
+      <point x="836" y="885" type="line"/>
+      <point x="352" y="885" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="225" y="885" type="line"/>
+      <point x="51" y="885" type="line"/>
+      <point x="51" y="1004" type="line"/>
+      <point x="225" y="1004" type="line"/>
+      <point x="225" y="1065" type="line" smooth="yes"/>
+      <point x="225" y="1258"/>
+      <point x="427" y="1454"/>
+      <point x="594" y="1454" type="qcurve" smooth="yes"/>
+      <point x="762" y="1454"/>
+      <point x="863" y="1356" type="qcurve" smooth="yes"/>
+      <point x="963" y="1259"/>
+    </contour>
+    <contour>
+      <point x="836" y="1004" type="line"/>
+      <point x="836" y="1065" type="line" smooth="yes"/>
+      <point x="836" y="1335"/>
+      <point x="352" y="1335"/>
+      <point x="352" y="1065" type="qcurve" smooth="yes"/>
+      <point x="352" y="1004" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="middot" format="2">
+  <advance width="491"/>
+  <unicode hex="00B7"/>
+  <outline>
+    <contour>
+      <point x="310" y="572" type="qcurve" smooth="yes"/>
+      <point x="334" y="550"/>
+      <point x="334" y="510" type="qcurve" smooth="yes"/>
+      <point x="334" y="472"/>
+      <point x="310" y="449" type="qcurve" smooth="yes"/>
+      <point x="284" y="426"/>
+      <point x="208" y="426"/>
+      <point x="183" y="449" type="qcurve" smooth="yes"/>
+      <point x="158" y="471"/>
+      <point x="158" y="510" type="qcurve" smooth="yes"/>
+      <point x="158" y="550"/>
+      <point x="183" y="572" type="qcurve" smooth="yes"/>
+      <point x="206" y="594"/>
+      <point x="246" y="594" type="qcurve" smooth="yes"/>
+      <point x="285" y="594"/>
+    </contour>
+  </outline>
+</glyph>

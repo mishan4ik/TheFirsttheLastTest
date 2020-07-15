@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" type="text/css" href="app/js/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="app/js/slick/slick-theme.css"/>
+	<script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="app/fonts/America/font.css">
+	<link rel="stylesheet" href="app/fonts/TravelsN/font.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+	<link rel="stylesheet" href="app/css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<header class="header">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3">
+					<h5 class="logoHeader">Logo Logo </h5>
+				</div><!--col-lg-3-->
+				<div class="col-lg-9 menuHeader">
+					<li class="burgerMenu"><img src="app/images/burger.png" alt=""></li>
+					<ul>
+						<li><a href="">Commercial</a></li>
+						<li><a href="">Editorial</a></li>
+						<li><a href="">Reportage</a></li>
+						<li><a href="">Meet Me</a></li>
+					</ul><!--menuHeader-->
+				</div><!--col-lg-9-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 slidesTransformTitle">
+					<div class="sliderTitleContent">
+						<div class="sliderSlideTitle">
+					<div class="titleBlock MainTextBlock1">
+					<h1 title="Drag me" class="title_textMain">inkingerie</h1>
+				</div><!--titleBlock-->
+				<div class="titleBlock MainTextBlock2">
+					<h1 title="Drag me" class="title_textMain"> inkingerie</h1>
+				</div><!--titleBlock-->
+				<div class="titleBlock MainTextBlock3">
+					<h1 title="Drag me" class="title_textMain">inkingerie</h1>
+				</div><!--titleBlock-->
+				</div><!--sliderSlideTitle-->
+				</div><!--sliderTitleContent-->
+				</div><!--col-lg-12-->
+			</div><!--row-->
+			<div class="row">
+				<div class="col-lg-12 transformSlidesImg">
+					<div class="blockSliderSlideImg">
+					<div class="blocksSlidsImg LeftImg">
+						<img class="layer leftSideImg" src="app/images/leftSide.png" alt="">
+					</div><!--blocksSlidsImg-->
+					<div class="blocksSlidsImg CenterImgBlock">
+						<img class="layer centerSideImg" src="app/images/centerSlide.png" alt="">
+					</div><!--blocksSlidsImg-->
+					<div class="blocksSlidsImg blockRightImg">
+						<img class="layer rightSideImg" src="app/images/rightSide.png" alt="">
+					</div><!--blocksSlidsImg-->
+				</div><!--sliderSlideImg-->
+				</div><!--col-lg-12-->
+			</div><!--row-->
+		</div><!--container-->
+	</header><!--header-->
+</body>
+<!--подключение слик слайдер-->
+<script type="text/javascript" src="app/js/slick/slick.min.js"></script>
+<script>
+$('.sliderSlideTitle').slick();
+</script>
+<script>
+	function parallax(event){
+		console.log(event);
+		this.querySelectorAll(".layer").forEach(layer=>{layer.style.transform=
+			`translateX(${event.clientX/100}px)`
+	});
+	}
+	document.addEventListener("mousemove",parallax);
+</script>
+<script>
+	$('.MainTextBlock1').click(function func(){
+		 if ($(window).width() > 768){
+		$(".leftSideImg").css("display","block");
+		$(".leftSideImg").css("marginLeft","500px");
+		$(".centerSideImg").css("display","none");
+		$(".rightSideImg").css("display","none");
+	}
+		else{
+			$(".blockSliderSlideImg").css("display","flex");
+		}
+	})
+</script>
+<script>
+	$('.MainTextBlock2').click(function func1(){
+		if ($(window).width() > 768){
+		$(".rightSideImg").css("display","block");
+		$(".rightSideImg").css("marginLeft","-600px");
+		$(".rightSideImg").css("marginTop","-250px");
+		$(".leftSideImg").css("display","none");
+		$(".centerSideImg").css("display","none");
+		}
+		else{
+			$(".blockSliderSlideImg").css("display","flex");
+		}
+
+	})
+</script>
+<script>
+	$('.MainTextBlock3').click(function func1(){
+		if ($(window).width() > 768){
+		$(".rightSideImg").css("display","none");
+		$(".leftSideImg").css("display","none");
+		$(".centerSideImg").css("display","block");
+		$(".centerSideImg").css("marginLeft","300px");
+	}
+		else{
+			$(".blockSliderSlideImg").css("display","flex");
+		}
+
+	})
+</script>
+<script>
+ 		$(".burgerMenu").click(function (){
+    if ($(window).width() <= 768){
+        $('.menuHeader ul').slideToggle();
+    } else {
+        $('.menuHeader ul').slideToggle();
+    }
+});
+ 	</script>
+
+</html>

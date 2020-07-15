@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide.subs" format="2">
+  <advance width="446"/>
+  <outline>
+    <contour>
+      <point x="204" y="194"/>
+      <point x="181" y="216"/>
+      <point x="181" y="233" type="qcurve" smooth="yes"/>
+      <point x="181" y="251"/>
+      <point x="204" y="273"/>
+      <point x="238" y="273"/>
+      <point x="261" y="251"/>
+      <point x="261" y="233" type="qcurve" smooth="yes"/>
+      <point x="261" y="216"/>
+      <point x="238" y="194"/>
+    </contour>
+    <contour>
+      <point x="46" y="72" type="line"/>
+      <point x="46" y="126" type="line"/>
+      <point x="400" y="126" type="line"/>
+      <point x="400" y="72" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="-75" type="qcurve" smooth="yes"/>
+      <point x="203" y="-75"/>
+      <point x="181" y="-54"/>
+      <point x="181" y="-18"/>
+      <point x="204" y="4"/>
+      <point x="238" y="4"/>
+      <point x="261" y="-18"/>
+      <point x="261" y="-36" type="qcurve" smooth="yes"/>
+      <point x="261" y="-53"/>
+      <point x="238" y="-75"/>
+    </contour>
+  </outline>
+</glyph>

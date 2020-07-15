@@ -1,0 +1,201 @@
+body{
+	cursor:wait;
+	margin: 0px;
+	padding: 0px;
+    
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	background-image:url("../images/bgTest.jpg");
+
+
+}
+.logoHeader{
+	margin-top: 50px;
+	font-size: 16px;
+	color: #000000;
+	font-family: 'GT America Regular', cursive;
+	font-weight: bold;
+}
+.menuHeader{
+	margin-top: 45px;
+	display: flex;
+	justify-content: flex-end;
+}
+.burgerMenu{
+	display: none;
+}
+
+.menuHeader ul li{
+	list-style-type: none;
+	text-align: right;
+}
+.menuHeader ul li a{
+	color: #000000;
+	font-size: 11px;
+	font-family: 'TTTravels-Regular', cursive;
+
+}
+.menuHeader ul li a:hover{
+	text-decoration: none;
+
+}
+.title_textMain{
+	text-align: center;
+	font-size:125px;
+	text-transform: uppercase;
+	color: #580300; 
+	font-family: 'GT America Regular', cursive;
+
+}
+.sliderTitleContent{
+	width: 1000px;
+	overflow: hidden;
+	position: absolute;
+	margin-top: 300px;
+	
+}
+.sliderSlideTitle{
+	width: 1600px;
+	display: block;
+
+
+}
+.MainTextBlock1,.MainTextBlock2{
+	padding-right: 200px;
+}
+.slidesTransformTitle{
+	z-index: 999;
+}
+.blockSliderSlideImg{
+	display: flex;
+}
+.LeftImg{
+	padding-right: 20px;
+	margin-top: 100px;
+}
+.blockRightImg,.blockRightImg2{
+	position: absolute;
+	margin-top: 300px;
+	right: 100px;
+}
+@media (min-width: 1024px) and (max-width: 1365px){
+	.blockRightImg{
+		right: 15px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1023px){
+	.burgerMenu{
+		display: block;
+	}
+	.menuHeader{
+		display: flex;
+		margin-top: -30px;
+	}
+	.menuHeader ul{
+		display: none;
+	}
+	.blockRightImg,.LeftImg{
+		display: none;
+	}
+	.CenterImgBlock{
+		display: block;
+		margin:0px auto;
+	}
+	.sliderTitleContent{
+		width: 768px;
+	}
+	.sliderSlideTitle{
+		width: 1300px;
+	}
+}
+@media (min-width: 425px) and (max-width: 767px){
+	.burgerMenu{
+		display: block;
+	}
+	.menuHeader{
+		display: flex;
+		margin-top: -30px;
+	}
+	.menuHeader ul{
+		display: none;
+	}
+	.blockRightImg,.LeftImg{
+		display: none;
+	}
+	.CenterImgBlock{
+		display: block;
+		margin:0px auto;
+	}
+	.sliderTitleContent{
+		width: 425px;
+	}
+	.sliderSlideTitle{
+		width: 1075px;
+	}
+	.title_textMain{
+		font-size: 20px;
+	}
+}
+@media (min-width: 375px) and (max-width: 424px){
+	.burgerMenu{
+		display: block;
+	}
+	.menuHeader{
+		display: flex;
+		margin-top: -30px;
+	}
+	.menuHeader ul{
+		display: none;
+	}
+	.blockRightImg,.LeftImg{
+		display: none;
+	}
+	.CenterImgBlock{
+		display: block;
+		margin:0px auto;
+	}
+	.sliderTitleContent{
+		width: 375px;
+	}
+	.sliderSlideTitle{
+		width: 1075px;
+	}
+	.title_textMain{
+		font-size: 20px;
+	}
+}
+@media (min-width: 320px) and (max-width: 374px){
+	.burgerMenu{
+		display: block;
+	}
+	.menuHeader{
+		display: flex;
+		margin-top: -30px;
+	}
+	.menuHeader ul{
+		display: none;
+	}
+	.blockRightImg,.LeftImg{
+		display: none;
+	}
+	.CenterImgBlock{
+		display: block;
+		margin:0px auto;
+	}
+	.sliderTitleContent{
+		width: 320px;
+	}
+	.sliderSlideTitle{
+		width: 1075px;
+	}
+	.title_textMain{
+		font-size: 20px;
+	}
+}

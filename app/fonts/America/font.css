@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'GT America Regular';
+  src: url('GT America Regular.eot');
+  src: url('GT America Regular.eot?#iefix') format('embedded-opentype'),
+       url('GT America Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: '';
+  src: ;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GTAmerica-Regular';
+  src: url('GTAmerica-Regular.svg#GTAmerica-Regular') format('svg'),
+       url('GTAmerica-Regular.ttf') format('truetype'),
+       url('GTAmerica-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

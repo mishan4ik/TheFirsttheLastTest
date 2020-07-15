@@ -1,0 +1,19 @@
+@font-face {
+  font-family: '';
+  src: ;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TTTravels-Regular';
+  src: url('TTTravels-Regular.eot');
+  src: url('TTTravels-Regular.eot?#iefix') format('embedded-opentype'),
+       url('TTTravels-Regular.svg#TTTravels-Regular') format('svg'),
+       url('TTTravels-Regular.ttf') format('truetype'),
+       url('TTTravels-Regular.woff') format('woff'),
+       url('TTTravels-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+

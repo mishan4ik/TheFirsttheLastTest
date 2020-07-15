@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="2">
+  <advance width="0"/>
+  <unicode hex="0300"/>
+  <anchor x="-136" y="723" name="Anchor-12"/>
+  <anchor x="-65" y="500" name="_Anchor-12"/>
+  <anchor x="-65" y="500" name="_Anchor-10"/>
+  <anchor x="-65" y="500" name="_Anchor-8"/>
+  <anchor x="-65" y="500" name="_Anchor-5"/>
+  <anchor x="-65" y="500" name="_Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="-28" y="580" type="line"/>
+      <point x="-106" y="580" type="line"/>
+      <point x="-224" y="723" type="line"/>
+      <point x="-120" y="723" type="line"/>
+    </contour>
+  </outline>
+</glyph>

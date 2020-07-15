@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Umacron" format="2">
+  <advance width="1564"/>
+  <unicode hex="016A"/>
+  <outline>
+    <contour>
+      <point x="1245" y="481" type="qcurve" smooth="yes"/>
+      <point x="1245" y="1434" type="line"/>
+      <point x="1380" y="1434" type="line"/>
+      <point x="1380" y="475" type="line" smooth="yes"/>
+      <point x="1380" y="230"/>
+      <point x="1211" y="106" type="qcurve" smooth="yes"/>
+      <point x="1042" y="-20"/>
+      <point x="522" y="-20"/>
+      <point x="353" y="106" type="qcurve" smooth="yes"/>
+      <point x="184" y="230"/>
+      <point x="184" y="475" type="qcurve" smooth="yes"/>
+      <point x="184" y="1434" type="line"/>
+      <point x="319" y="1434" type="line"/>
+      <point x="319" y="481" type="line" smooth="yes"/>
+      <point x="319" y="296"/>
+      <point x="451" y="202" type="qcurve" smooth="yes"/>
+      <point x="582" y="106"/>
+      <point x="984" y="106"/>
+      <point x="1114" y="202" type="qcurve" smooth="yes"/>
+      <point x="1245" y="297"/>
+    </contour>
+    <contour>
+      <point x="1055" y="1679" type="line"/>
+      <point x="510" y="1679" type="line"/>
+      <point x="510" y="1782" type="line"/>
+      <point x="1055" y="1782" type="line"/>
+    </contour>
+  </outline>
+</glyph>

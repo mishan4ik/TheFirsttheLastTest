@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring" format="2">
+  <advance width="716"/>
+  <unicode hex="016E"/>
+  <anchor x="358" y="942" name="Anchor-8"/>
+  <anchor x="377" y="0" name="Anchor-7"/>
+  <anchor x="358" y="0" name="Anchor-6"/>
+  <outline>
+    <contour>
+      <point x="309" y="738"/>
+      <point x="249" y="795"/>
+      <point x="249" y="885"/>
+      <point x="309" y="942"/>
+      <point x="407" y="942"/>
+      <point x="467" y="885"/>
+      <point x="467" y="795"/>
+      <point x="407" y="738"/>
+    </contour>
+    <contour>
+      <point x="381" y="786"/>
+      <point x="410" y="816"/>
+      <point x="410" y="864"/>
+      <point x="381" y="894"/>
+      <point x="335" y="894"/>
+      <point x="306" y="864"/>
+      <point x="306" y="816"/>
+      <point x="335" y="786"/>
+    </contour>
+    <contour>
+      <point x="85" y="710" type="line"/>
+      <point x="180" y="710" type="line"/>
+      <point x="180" y="254" type="line" smooth="yes"/>
+      <point x="180" y="167"/>
+      <point x="273" y="67"/>
+      <point x="443" y="67"/>
+      <point x="536" y="167"/>
+      <point x="536" y="254" type="qcurve" smooth="yes"/>
+      <point x="536" y="710" type="line"/>
+      <point x="631" y="710" type="line"/>
+      <point x="631" y="248" type="line" smooth="yes"/>
+      <point x="631" y="127"/>
+      <point x="488" y="-17"/>
+      <point x="228" y="-17"/>
+      <point x="85" y="127"/>
+      <point x="85" y="248" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

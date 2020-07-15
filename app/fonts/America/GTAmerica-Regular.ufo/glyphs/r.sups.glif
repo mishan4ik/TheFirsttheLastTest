@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.sups" format="2">
+  <advance width="307"/>
+  <anchor x="157" y="675" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <anchor x="112" y="310" name="Anchor-6"/>
+  <outline>
+    <contour>
+      <point x="145" y="591" type="line"/>
+      <point x="159" y="634"/>
+      <point x="222" y="684"/>
+      <point x="267" y="684" type="qcurve" smooth="yes"/>
+      <point x="274" y="684"/>
+      <point x="278" y="683" type="qcurve"/>
+      <point x="278" y="610" type="line" smooth="yes"/>
+      <point x="275" y="610"/>
+      <point x="265" y="611"/>
+      <point x="263" y="611" type="qcurve" smooth="yes"/>
+      <point x="216" y="611"/>
+      <point x="188" y="586" type="qcurve" smooth="yes"/>
+      <point x="150" y="551"/>
+      <point x="150" y="475" type="qcurve" smooth="yes"/>
+      <point x="150" y="310" type="line"/>
+      <point x="74" y="310" type="line"/>
+      <point x="74" y="675" type="line"/>
+      <point x="145" y="675" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h.ss02" format="2">
+  <advance width="1310"/>
+  <outline>
+    <contour>
+      <point x="1137" y="0" type="line"/>
+      <point x="1010" y="0" type="line"/>
+      <point x="1010" y="868" type="line"/>
+      <point x="301" y="557" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="1434" type="line"/>
+      <point x="301" y="1434" type="line"/>
+      <point x="301" y="692" type="line"/>
+      <point x="1010" y="1004" type="line"/>
+      <point x="1137" y="1004" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcaron.ss02" format="2">
+  <advance width="884"/>
+  <outline>
+    <contour>
+      <point x="301" y="705" type="line"/>
+      <point x="854" y="1024" type="line"/>
+      <point x="854" y="881" type="line"/>
+      <point x="301" y="561" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+      <point x="174" y="1004" type="line"/>
+      <point x="301" y="1004" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="1536" type="line"/>
+      <point x="518" y="1276" type="line"/>
+      <point x="735" y="1536" type="line"/>
+      <point x="870" y="1536" type="line"/>
+      <point x="594" y="1208" type="line"/>
+      <point x="442" y="1208" type="line"/>
+      <point x="166" y="1536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

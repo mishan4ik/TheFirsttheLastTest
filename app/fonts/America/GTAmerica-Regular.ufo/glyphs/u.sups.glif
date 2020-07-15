@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u.sups" format="2">
+  <advance width="465"/>
+  <anchor x="231" y="675" name="Anchor-8"/>
+  <anchor x="391" y="310" name="Anchor-7"/>
+  <anchor x="234" y="310" name="Anchor-6"/>
+  <outline>
+    <contour>
+      <point x="319" y="374" type="line"/>
+      <point x="305" y="341"/>
+      <point x="239" y="301"/>
+      <point x="196" y="301" type="qcurve" smooth="yes"/>
+      <point x="66" y="301"/>
+      <point x="66" y="442" type="qcurve" smooth="yes"/>
+      <point x="66" y="675" type="line"/>
+      <point x="142" y="675" type="line"/>
+      <point x="142" y="453" type="line" smooth="yes"/>
+      <point x="142" y="407"/>
+      <point x="184" y="361"/>
+      <point x="220" y="361" type="qcurve" smooth="yes"/>
+      <point x="264" y="361"/>
+      <point x="316" y="423"/>
+      <point x="316" y="470" type="qcurve" smooth="yes"/>
+      <point x="316" y="675" type="line"/>
+      <point x="391" y="675" type="line"/>
+      <point x="391" y="310" type="line"/>
+      <point x="319" y="310" type="line"/>
+    </contour>
+  </outline>
+</glyph>

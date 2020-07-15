@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k.sups" format="2">
+  <advance width="437"/>
+  <anchor x="226" y="675" name="Anchor-8"/>
+  <anchor x="0" y="0" name="Anchor-7"/>
+  <anchor x="230" y="310" name="Anchor-6"/>
+  <outline>
+    <contour>
+      <point x="331" y="310" type="line"/>
+      <point x="220" y="485" type="line"/>
+      <point x="156" y="421" type="line"/>
+      <point x="156" y="310" type="line"/>
+      <point x="80" y="310" type="line"/>
+      <point x="80" y="839" type="line"/>
+      <point x="156" y="839" type="line"/>
+      <point x="156" y="500" type="line"/>
+      <point x="319" y="675" type="line"/>
+      <point x="411" y="675" type="line"/>
+      <point x="274" y="533" type="line"/>
+      <point x="419" y="310" type="line"/>
+    </contour>
+  </outline>
+</glyph>

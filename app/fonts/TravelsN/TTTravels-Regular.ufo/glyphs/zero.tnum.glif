@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tnum" format="2">
+  <advance width="1372"/>
+  <outline>
+    <contour>
+      <point x="983" y="-20"/>
+      <point x="389" y="-20"/>
+      <point x="43" y="398"/>
+      <point x="43" y="1036"/>
+      <point x="389" y="1454"/>
+      <point x="983" y="1454"/>
+      <point x="1329" y="1036"/>
+      <point x="1329" y="398"/>
+    </contour>
+    <contour>
+      <point x="922" y="1327"/>
+      <point x="687" y="1327" type="qcurve" smooth="yes"/>
+      <point x="451" y="1327"/>
+      <point x="317" y="1154" type="qcurve" smooth="yes"/>
+      <point x="182" y="982"/>
+      <point x="182" y="717" type="qcurve" smooth="yes"/>
+      <point x="182" y="453"/>
+      <point x="317" y="280" type="qcurve" smooth="yes"/>
+      <point x="450" y="106"/>
+      <point x="687" y="106" type="qcurve" smooth="yes"/>
+      <point x="922" y="106"/>
+      <point x="1056" y="280" type="qcurve" smooth="yes"/>
+      <point x="1190" y="453"/>
+      <point x="1190" y="981"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute.ss02" format="2">
+  <advance width="1310"/>
+  <outline>
+    <contour>
+      <point x="174" y="1004" type="line"/>
+      <point x="301" y="1004" type="line"/>
+      <point x="301" y="135" type="line"/>
+      <point x="1010" y="446" type="line"/>
+      <point x="1010" y="1004" type="line"/>
+      <point x="1137" y="1004" type="line"/>
+      <point x="1137" y="0" type="line"/>
+      <point x="1010" y="0" type="line"/>
+      <point x="1010" y="311" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="705" y="1208" type="line"/>
+      <point x="578" y="1208" type="line"/>
+      <point x="885" y="1536" type="line"/>
+      <point x="1053" y="1536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

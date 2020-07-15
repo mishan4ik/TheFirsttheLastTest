@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis.ss02" format="2">
+  <advance width="1310"/>
+  <outline>
+    <contour>
+      <point x="174" y="1004" type="line"/>
+      <point x="301" y="1004" type="line"/>
+      <point x="301" y="135" type="line"/>
+      <point x="1010" y="446" type="line"/>
+      <point x="1010" y="1004" type="line"/>
+      <point x="1137" y="1004" type="line"/>
+      <point x="1137" y="0" type="line"/>
+      <point x="1010" y="0" type="line"/>
+      <point x="1010" y="311" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="174" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="1251" type="qcurve" smooth="yes"/>
+      <point x="386" y="1272"/>
+      <point x="386" y="1341"/>
+      <point x="408" y="1363" type="qcurve" smooth="yes"/>
+      <point x="430" y="1384"/>
+      <point x="508" y="1384"/>
+      <point x="531" y="1363" type="qcurve" smooth="yes"/>
+      <point x="554" y="1341"/>
+      <point x="554" y="1272"/>
+      <point x="531" y="1251" type="qcurve" smooth="yes"/>
+      <point x="509" y="1229"/>
+      <point x="469" y="1229" type="qcurve" smooth="yes"/>
+      <point x="430" y="1229"/>
+    </contour>
+    <contour>
+      <point x="781" y="1251" type="qcurve" smooth="yes"/>
+      <point x="758" y="1272"/>
+      <point x="758" y="1341"/>
+      <point x="781" y="1363" type="qcurve" smooth="yes"/>
+      <point x="804" y="1384"/>
+      <point x="842" y="1384" type="qcurve" smooth="yes"/>
+      <point x="882" y="1384"/>
+      <point x="904" y="1363" type="qcurve" smooth="yes"/>
+      <point x="926" y="1341"/>
+      <point x="926" y="1272"/>
+      <point x="904" y="1251" type="qcurve" smooth="yes"/>
+      <point x="882" y="1229"/>
+      <point x="842" y="1229" type="qcurve" smooth="yes"/>
+      <point x="803" y="1229"/>
+    </contour>
+  </outline>
+</glyph>

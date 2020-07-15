@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idot" format="2">
+  <advance width="1159"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="123" y="1434" type="line"/>
+      <point x="1036" y="1434" type="line"/>
+      <point x="1036" y="1311" type="line"/>
+      <point x="647" y="1311" type="line"/>
+      <point x="647" y="123" type="line"/>
+      <point x="1036" y="123" type="line"/>
+      <point x="1036" y="0" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="123" y="123" type="line"/>
+      <point x="512" y="123" type="line"/>
+      <point x="512" y="1311" type="line"/>
+      <point x="123" y="1311" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="1671" type="qcurve" smooth="yes"/>
+      <point x="496" y="1692"/>
+      <point x="496" y="1761"/>
+      <point x="519" y="1783" type="qcurve" smooth="yes"/>
+      <point x="542" y="1804"/>
+      <point x="618" y="1804"/>
+      <point x="641" y="1783" type="qcurve" smooth="yes"/>
+      <point x="664" y="1761"/>
+      <point x="664" y="1692"/>
+      <point x="641" y="1671" type="qcurve" smooth="yes"/>
+      <point x="619" y="1649"/>
+      <point x="541" y="1649"/>
+    </contour>
+  </outline>
+</glyph>

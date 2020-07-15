@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="divide.case" format="2">
+  <advance width="570"/>
+  <outline>
+    <contour>
+      <point x="260" y="512"/>
+      <point x="231" y="541"/>
+      <point x="231" y="587"/>
+      <point x="260" y="616"/>
+      <point x="306" y="616"/>
+      <point x="335" y="588"/>
+      <point x="335" y="564" type="qcurve" smooth="yes"/>
+      <point x="335" y="541"/>
+      <point x="306" y="512"/>
+    </contour>
+    <contour>
+      <point x="50" y="338" type="line"/>
+      <point x="50" y="414" type="line"/>
+      <point x="520" y="414" type="line"/>
+      <point x="520" y="338" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="136"/>
+      <point x="231" y="165"/>
+      <point x="231" y="211"/>
+      <point x="260" y="240"/>
+      <point x="306" y="240"/>
+      <point x="335" y="212"/>
+      <point x="335" y="188" type="qcurve" smooth="yes"/>
+      <point x="335" y="165"/>
+      <point x="306" y="136"/>
+    </contour>
+  </outline>
+</glyph>

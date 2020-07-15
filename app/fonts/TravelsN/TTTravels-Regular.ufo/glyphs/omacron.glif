@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacron" format="2">
+  <advance width="1339"/>
+  <unicode hex="014D"/>
+  <outline>
+    <contour>
+      <point x="285" y="125" type="qcurve" smooth="yes"/>
+      <point x="133" y="271"/>
+      <point x="133" y="733"/>
+      <point x="285" y="879" type="qcurve" smooth="yes"/>
+      <point x="436" y="1024"/>
+      <point x="904" y="1024"/>
+      <point x="1206" y="734"/>
+      <point x="1206" y="270"/>
+      <point x="904" y="-20"/>
+      <point x="436" y="-20"/>
+    </contour>
+    <contour>
+      <point x="1075" y="332"/>
+      <point x="1075" y="672"/>
+      <point x="963" y="787" type="qcurve" smooth="yes"/>
+      <point x="851" y="901"/>
+      <point x="670" y="901" type="qcurve" smooth="yes"/>
+      <point x="490" y="901"/>
+      <point x="377" y="787" type="qcurve" smooth="yes"/>
+      <point x="264" y="671"/>
+      <point x="264" y="333"/>
+      <point x="377" y="217" type="qcurve" smooth="yes"/>
+      <point x="489" y="102"/>
+      <point x="851" y="102"/>
+    </contour>
+    <contour>
+      <point x="942" y="1260" type="line"/>
+      <point x="397" y="1260" type="line"/>
+      <point x="397" y="1362" type="line"/>
+      <point x="942" y="1362" type="line"/>
+    </contour>
+  </outline>
+</glyph>
